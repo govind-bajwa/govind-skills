@@ -10,7 +10,7 @@
 
 set -e
 
-REPO_URL="https://github.com/YOUR_USERNAME/govind-skills.git"
+REPO_URL="https://github.com/govsbajwa-png/govind-skills.git"
 SKILLS_DEST="$HOME/.claude/skills"
 ENV_FILE="$HOME/.claude/skills/.env"
 SHELL_RC=""

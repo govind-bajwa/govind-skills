@@ -14,7 +14,7 @@ Four production-grade skills for Claude Code. Built and used internally at Brain
 ## Install
 
 ```bash
-git clone https://github.com/braindai/govind-skills.git
+git clone https://github.com/govsbajwa-png/govind-skills.git
 cd govind-skills
 bash install.sh
 ```
